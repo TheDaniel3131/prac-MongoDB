@@ -1,0 +1,7 @@
+account: danielpohtingfong@gmail.com
+username: DPTF
+password: danielpohtingfong
+
+https://cloud.mongodb.com/v2/65b3592eeac1f03cee2049f5#/clusters/connect?clusterId=DPTFCloud&connectionMethod=CONNECT_SQL_INTERFACE
+
+DPTFCloud
